@@ -53,3 +53,4 @@ with open("countries_data.csv", "w", encoding="utf-8-sig", newline="") as f:
     writer.writerows(all_countries)
 
 print("文件已保存为 countries_data.csv！")
+# 假设我在这里加一行注释。这就说明我修改了这份文件。然后你就会发现左下角第四个图标会亮一下。
